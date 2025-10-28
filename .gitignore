@@ -37,3 +37,7 @@ venv/
 
 # Polymarket data artifacts
 src/clob/*.json
+src/clob/markets.json
+src/clob/market_names.json
+src/clob/current_markets.json
+src/clob/current_market_names.json
