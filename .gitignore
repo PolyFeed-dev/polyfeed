@@ -34,3 +34,6 @@ venv/
 
 # Logs
 *.log
+
+# Polymarket data artifacts
+src/clob/*.json
