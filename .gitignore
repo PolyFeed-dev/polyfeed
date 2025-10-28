@@ -15,6 +15,7 @@ pip-wheel-metadata/
 venv/
 .venv/
 .env/
+.env
 
 # Testing & coverage
 .pytest_cache/
